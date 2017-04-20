@@ -10,7 +10,7 @@ sidebar:
 
 #### <a name="what_need" />Что нужно: 
 + The Homebrew [Starter Kit](http://smealum.github.io/ninjhax2/starter.zip)
-+ Настроенное и рабочее интернет-соединение. 
++ Настроенное и рабочее Интернет-соединение. 
 
 #### <a name="instructions" />Что делать:
 
